@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a student developer building web applications
 ### 📌 Links & Channels
 - 🌐 **Live Web App:** [Student Toolkit App](https://anshitay980-arch.github.io/anshita-student-toolkit/)
 - 📁 **App Repository:** [anshita-student-toolkit](https://github.com/anshitay980-arch/anshita-student-toolkit-)
-- 📽️ **YouTube Channel:** Search `@madxg` on YouTube
+- 📽️ **YouTube Channel:** Search `@StudentToolkit-Anshitay` on YouTube
 
 ---
 
